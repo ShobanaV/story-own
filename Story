@@ -1,1 +1,2 @@
 A boy has 3 pets - Cat, Dog and Axolotl.
+The boy is fond of Axolotl very much.
